@@ -1,5 +1,6 @@
 # ShopLink Africa Delivery & Inventory Analysis
 A real-world business dashboard built during my Excel internship at RemilyTIQ, using a multi-table dataset drafted and cleaned by my teammate and me.
+
 📊 Project Overview
 This project focuses on uncovering operational issues faced by ShopLink Africa, a retail e-commerce company operating across West Africa. The company was experiencing:
 
